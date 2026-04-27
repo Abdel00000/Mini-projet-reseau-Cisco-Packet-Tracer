@@ -99,12 +99,11 @@ Le mini projet permet de valider les points suivants :
 
 ---
 
-## Fichier PDF du projet
+## Rapport complet
 
-Une version PDF du projet est également disponible dans ce dépôt :
+Le rapport détaillé du projet est disponible en version PDF :
 
-- `docs/rapport_complet.pdf`
-
+- [Rapport complet — version PDF](docs/rapport_complet.pdf)
 
 
 ---
