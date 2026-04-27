@@ -30,7 +30,7 @@ Le réseau est composé de :
 - **3 postes (PC)**
 - connexions Ethernet entre chaque poste et le switch
 
-![Architecture réseau](Cisco%20Packet%20Tracer%20Proof/architecture-reseau.png)
+![Architecture réseau](assets/images/architecture-reseau.png)
 
 ---
 
@@ -58,7 +58,7 @@ Chaque poste a été configuré manuellement avec une adresse IP statique.
 
 Cette étape permet de comprendre la logique d’un réseau local simple et de préparer les tests de communication entre plusieurs machines.
 
-![Configuration IP statique](Cisco%20Packet%20Tracer%20Proof/configuration-ip.png)
+![Configuration IP statique](assets/images/configuration-ip.png)
 
 ---
 
@@ -77,7 +77,7 @@ Les réponses obtenues confirment que :
 - les postes appartiennent au même réseau
 - la connectivité via le switch est fonctionnelle
 
-![Test de connectivité](Cisco%20Packet%20Tracer%20Proof/test-connectivite.png)
+![Test de connectivité](assets/images/test-connectivite.png)
 
 ---
 
