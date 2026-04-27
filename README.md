@@ -103,7 +103,7 @@ Le mini projet permet de valider les points suivants :
 
 Une version PDF du projet est également disponible dans ce dépôt :
 
-- `Mini_Projet_Reseau_Cisco_Packet_Tracer.pdf`
+- `docs/rapport_complet.pdf`
 
 
 
